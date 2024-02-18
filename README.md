@@ -1,5 +1,5 @@
-latihan-branch
+latihan-branch-main
 ==
 Ini adalah repository untuk latihan membuat branch baru di GitHub.
 --
-Saya bisa mengeksplor GitHub dengan lincah!
+GitHub itu asyk lho!
